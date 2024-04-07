@@ -62,8 +62,8 @@
  
  	N = 14 
  
- Problems
- 1 - 1
+ Problems \
+ 1 - 1 \
  ![alt text](image.png) 
 
  Ex 2.1
