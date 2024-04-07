@@ -94,7 +94,13 @@ for i in range(len(arr)):
 
 print(summ)
 ```
-
+4 - Linear search
+```python
+def linear_search(arr, item):
+    for i in range(len(arr)):
+        if arr[i] == item:
+            return i
+```
 
 
 
