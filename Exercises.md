@@ -67,7 +67,7 @@
  ![alt text](image.png) 
 
  Ex 2.1
- 1 - 
+ 1 - Insertion sort
  ```python
     arr = [31, 41, 59, 26, 41, 58]
     for i in range(1, len(arr)):
